@@ -17,7 +17,6 @@ public:
             result += str.top();
             str.pop();
         }
-
         return result;
     }
 };
